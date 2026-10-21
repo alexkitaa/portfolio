@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🌐 Aditya Bhatt — Cybersecurity Portfolio
 
 Welcome to my personal portfolio website, hosted via GitHub Pages!
@@ -72,3 +73,7 @@ This site is deployed using [GitHub Pages](https://pages.github.com/), a free an
 ---
 
 > Designed & Developed with 💙 by **Aditya Bhatt**
+=======
+# kitaaalex
+Website Portfolio
+>>>>>>> 69a472b07ff087544af96a13fd27c725efcb37b1
